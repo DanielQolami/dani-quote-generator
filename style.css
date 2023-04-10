@@ -98,7 +98,7 @@ button:active {
 }
 
 /* Media Query: Tablet or Smaller */
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 800px) {
   .quote-container {
     margin: auto 10px;
   }
